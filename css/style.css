@@ -48,8 +48,8 @@ ul{
 }
 .nav-menu__item{
     float: left;
-    border-right: 1px solid #4f4f4f;
-    border-left: 1px solid #4f4f4f
+    border-right: 1px solid transparent;
+    border-left: 1px solid transparent;
 }
 
 .left-menu__link {
